@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharp_Practice": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
